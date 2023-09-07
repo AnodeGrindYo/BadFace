@@ -1,6 +1,10 @@
-# Snapface
+# Badface
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.4.
+
+This is a simple picture sharing app I've made to revise my Angular knowledges.
+
+![](https://cdn.discordapp.com/attachments/932672918859702355/1149220703330115614/image.png)
 
 ## Development server
 
