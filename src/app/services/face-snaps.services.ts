@@ -83,7 +83,7 @@ export class FaceSnapService {
     }
   }
 
-  snapFaceSnapById(faceSnapId: number, snapType: 'snap' | 'unsnap'): void {
+  snapById(faceSnapId: number, snapType: 'snap' | 'unsnap'): void {
     const faceSnap = this.getFaceSnapById(faceSnapId);
     snapType === 'snap' ? faceSnap.snaps++ : faceSnap.snaps--;
   }
